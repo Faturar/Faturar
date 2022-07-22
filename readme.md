@@ -1,4 +1,17 @@
 🖐 Hi There
+# Howdy :wave:
+
+I'm Fatur Ardiansyah Ramadhan; Freelance web developer from Indonesia. 2+ years of experience in web development.
+
+## Personal Stuffs :surfing_man:
+
+> I am currently 18 years old.<br />
+> Started my career at the age of 11, and worked remotely/freelance.
+
+:seedling: Currently learning **Livewire** & **Vue.js**<br />
+:sparkles: Interested in **backend-ish** things<br />
+:house: Rarely go out, unless it's very important<br />
+:notes: Listen songs
 
 ## Working Area :see_no_evil:
 
