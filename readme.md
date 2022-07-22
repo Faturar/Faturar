@@ -1,5 +1,12 @@
 🖐 Hi There
 
+## Working Area :see_no_evil:
+
+#### :blossom: Summary
+
+I use the PHP framework [**Laravel**](https://github.com/laravel/laravel) to build website applications.<br />
+For hobbies or freelance I usually use **PHP** and **JavaScript**.
+
 #### :sunglasses: Familiar Tech
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat-square&logoColor=%23FFF&logo=git)](https://git-scm.com/)
 [![PHP](https://img.shields.io/badge/PHP-%238892BF?style=flat-square&logoColor=%23FFF&logo=php)](https://www.php.net/)
