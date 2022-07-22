@@ -8,7 +8,7 @@ I'm Fatur Ardiansyah Ramadhan; Freelance web developer from Indonesia.
 > Started my career at the age of 16, and worked remotely/freelance.
 
 :seedling: Currently learning **Livewire** & **Vue.js**<br />
-:sparkles: Interested in **backend-ish** things<br />
+:sparkles: Interested in **backend** things<br />
 :house: Rarely go out, unless it's very important<br />
 :notes: Listen songs
 
