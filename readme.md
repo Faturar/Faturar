@@ -1,5 +1,4 @@
-🖐 Hi There
-# Howdy :wave:
+# Hi There :wave:
 
 I'm Fatur Ardiansyah Ramadhan; Freelance web developer from Indonesia. 2+ years of experience in web development.
 
