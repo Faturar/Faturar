@@ -1,6 +1,6 @@
 # Hi There :wave:
 
-I'm Fatur Ardiansyah Ramadhan; Freelance web developer from Indonesia. 1+ years of experience in web development.
+I'm Fatur Ardiansyah Ramadhan; Freelance web developer from Indonesia.
 
 ## Personal Stuffs :surfing_man:
 
