@@ -1,3 +1,5 @@
+## 🌲 Let's we do "Penghijauan" again!
+
 # Hi There :wave: 
 
 I'm Fatur Ardiansyah Ramadhan; Freelance web developer.
@@ -34,6 +36,3 @@ For hobbies or freelance I usually use **PHP** and **JavaScript**.
 [![SCSS](https://img.shields.io/badge/SCSS-%23E0A3C2?style=flat-square&logoColor=%23333&logo=sass)](https://sass-lang.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952b3?style=flat-square&logoColor=%23FFF&logo=bootstrap)](https://getbootstrap.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=flat-square&logoColor=%23FFF&logo=firebase)](https://firebase.google.com/)
-
-
-# 🌲 Let's we do "Penghijauan" again!
