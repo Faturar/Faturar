@@ -1,7 +1,5 @@
 ### 🌱 Let's we do "Penghijauan" again!
 
-<br />
-
 # Hi There :wave: 
 
 I'm Fatur Ardiansyah Ramadhan; Freelance web developer.
