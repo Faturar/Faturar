@@ -35,5 +35,5 @@ For hobbies or freelance I usually use **PHP** and **JavaScript**.
 [![CSS3](https://img.shields.io/badge/CSS3-%23264de4?style=flat-square&logoColor=%23FFF&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS](https://img.shields.io/badge/SCSS-%23E0A3C2?style=flat-square&logoColor=%23333&logo=sass)](https://sass-lang.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952b3?style=flat-square&logoColor=%23FFF&logo=bootstrap)](https://getbootstrap.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=flat-square&logoColor=%23FFF&logo=firebase)](https://firebase.google.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-%23FFA611?style=flat-square&logoColor=%23FFF&logo=tailwindcss)](https://tailwindcss.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=flat-square&logoColor=%23FFF&logo=firebase)](https://firebase.google.com/)
