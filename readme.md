@@ -1,6 +1,6 @@
 # Hi There :wave:
 
-I'm Fatur Ardiansyah Ramadhan; Freelance web developer from Indonesia.
+I'm Fatur Ardiansyah Ramadhan; Freelance web developer.
 
 ## Personal Stuffs :surfing_man:
 
@@ -12,14 +12,14 @@ I'm Fatur Ardiansyah Ramadhan; Freelance web developer from Indonesia.
 :house: Rarely go out, unless it's very important<br />
 :notes: Listen songs
 
-## Working Area :see_no_evil:
+## Working Area 
 
-#### :blossom: Summary
+#### Summary
 
 I use the PHP framework [**Laravel**](https://github.com/laravel/laravel) to build website applications.<br />
 For hobbies or freelance I usually use **PHP** and **JavaScript**.
 
-#### :sunglasses: Familiar Tech
+#### Familiar Tech
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat-square&logoColor=%23FFF&logo=git)](https://git-scm.com/)
 [![PHP](https://img.shields.io/badge/PHP-%238892BF?style=flat-square&logoColor=%23FFF&logo=php)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/PHP-%238892BF?style=flat-square&logoColor=%23FFF&logo=laravel)](https://laravel.com/)
