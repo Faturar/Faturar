@@ -7,8 +7,8 @@ I'm Fatur Ardiansyah Ramadhan; Freelance web developer.
 > I am currently 17 years old.<br />
 > Started my career at the age of 15, freelance.
 
-:seedling: Currently learning **Livewire** & **Vue.js**<br />
-:sparkles: Interested in **backend** things<br />
+:seedling: Currently learning **Next JS**<br />
+:sparkles: Interested in **Frontend** things<br />
 :house: Rarely go out, unless it's very important
 
 ## Working Area 
