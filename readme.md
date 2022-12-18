@@ -1,6 +1,6 @@
 # Hi There :wave: 
 
-I'm Fatur Ardiansyah Ramadhan; Freelance web developer.
+I'm Fatur Ardiansyah Ramadhan; Currently Freelance web developer.
 
 ## Personal Stuffs
 
