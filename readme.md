@@ -29,7 +29,7 @@
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%#7952B3?style=flat-square&logo=bootstrap&&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231a202c?style=flat-square&logo=bootstrap)
 
 ![Laravel](https://img.shields.io/badge/-Laravel-%23E44D27?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Codeigniter 4](https://img.shields.io/badge/-Codeigniter-%23E44D27?style=flat-square&logo=codeigniter&logoColor=ffffff)
