@@ -1,6 +1,8 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Fatur Ardiansyah Ramadhan
 
 [![](https://img.shields.io/badge/-@faturar-%23181717?style=flat-square&logo=github)](https://github.com/Faturar)
+[![](https://img.shields.io/badge/-@faturar.dev-%23181717?style=flat-square&logo=instagram)](https://instagram.com/faturar)
+[![](https://img.shields.io/badge/-faturardev-%23181717?style=flat-square&logo=facebook)](https://instagram.com/fatuardev)
 
 𝑰 Like 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
 
