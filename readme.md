@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-@faturar-%23181717?style=flat-square&logo=github)](https://github.com/Faturar)
 [![](https://img.shields.io/badge/-@faturar.dev-%23181717?style=flat-square&logo=instagram)](https://instagram.com/faturar.dev)
-[![](https://img.shields.io/badge/-faturardev-%23181717?style=flat-square&logo=facebook)](https://facebook.com/fatuardev)
+[![](https://img.shields.io/badge/-faturardev-%23181717?style=flat-square&logo=facebook)](https://www.facebook.com/faturardev/)
 
 𝑰 Like 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
 
