@@ -6,7 +6,7 @@
 
 I Like Front-end development
 
-:computer: self-thought Front-end.
+:computer: Self-thought Front-end.
 
 🖖 React.JS | ☕️ Coffee | 🎧 Music
 
@@ -40,5 +40,5 @@ I Like Front-end development
 
 ## Stats
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=Faturar&show_icons=true&theme=tokyonight)
+![Faturar's github stats](https://github-readme-stats.vercel.app/api?username=Faturar&show_icons=true&theme=tokyonight)
 
