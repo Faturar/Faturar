@@ -4,8 +4,6 @@
 [![](https://img.shields.io/badge/-@faturar.dev-%23181717?style=flat-square&logo=instagram)](https://instagram.com/faturar.dev)
 [![](https://img.shields.io/badge/-faturardev-%23181717?style=flat-square&logo=facebook)](https://www.facebook.com/faturardev/)
 
-Front-end developer
-
 :computer: Self-thought Front-end.
 
 🖖 React.JS | ☕️ Coffee | 🎧 Music
