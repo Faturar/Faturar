@@ -8,14 +8,7 @@
 
 🖖 React.JS | ☕️ Coffee | 🎧 Music
 
-<!-- :writing_hand: 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 [tech-stack.tools](http://github.com/xiaoluoboding/tech-stack.tools) 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.   -->
-
-<!-- ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 -->
-
-<!-- [![bookmark.style](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://bookmark.style) -->
-<!-- [![tech-stack.tools](https://svg.bookmark.style/api?url=https://tech-stack.tools/&mode=dark&style=horizontal)](https://tech-stack.tools) -->
-<!-- [![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group) -->
-<!-- [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette) -->
+<img align="center" src="https://ibb.co/QjtsMFT" alt="aminrais-dev" height="30" width="40" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
