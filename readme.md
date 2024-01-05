@@ -8,10 +8,11 @@
 
 🖖 React.JS | ☕️ Coffee | 🎧 Music
 
-<img width="33%" src="https://i.ibb.co/WpjSfWM/Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-3.jpg" alt="Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-3" border="0" />
-<img width="33%" src="https://i.ibb.co/2s1H9km/Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-1.jpg" alt="Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-1" border="0">
-<img width="33%" src="https://i.ibb.co/9r3pW2r/Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-3-1.jpg" alt="Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-3-1" border="0">
-<img width="33%" src="https://i.ibb.co/KGbvY1Y/Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-2.jpg" alt="Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-2" border="0">
+<div style="display: flex;">
+  <img width="33%" src="https://i.ibb.co/2s1H9km/Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-1.jpg" alt="Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-1" border="0">
+  <img width="33%" src="https://i.ibb.co/9r3pW2r/Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-3-1.jpg" alt="Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-3-1" border="0">
+  <img width="33%" src="https://i.ibb.co/KGbvY1Y/Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-2.jpg" alt="Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-2" border="0">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
