@@ -8,7 +8,7 @@
 
 🖖 React.JS | ☕️ Coffee | 🎧 Music
 
-<img align="center" src="https://ibb.co/QjtsMFT" height="30" width="40" />
+<img src="https://i.ibb.co/WpjSfWM/Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-3.jpg" alt="Albedo-Base-XL-Design-an-illustration-showcasing-an-cat-dominan-3" border="0" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
